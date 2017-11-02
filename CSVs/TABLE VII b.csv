@@ -1,0 +1,4 @@
+Credentials should not be hard-coded,3810,"0,211400536879684"
+SQL binding mechanisms should be used,3520,"0,195309682366532"
+File.createTempFile should not be used to create a directory,45,"0,002496856734799"
+Neither DES (Data Encryption Standard) nor DESede (3DES) should be used,0,0
